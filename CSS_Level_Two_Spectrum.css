@@ -1,0 +1,53 @@
+/*Choose a cool Font Text Scheme*/
+
+h1{
+  font-family: 'EB Garamond', cursive;
+  text-align: center;
+}
+
+/*Choose a color palette from here:
+https://coolors.co/
+or create your own here:
+paletton.com/*/
+
+/*
+I chose:
+
+#fcbf49
+#4a4e69
+#fdf0d5
+#d62828
+#8d99ae
+
+*/
+
+.art{
+  margin: auto;
+}
+
+
+td{
+  height: 200px;
+  padding: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #fcbf49;
+}
+
+#two{
+  background-color: #4a4e69;
+}
+
+#three{
+  background-color: #fdf0d5;
+}
+
+#four{
+  background-color: #d62828;
+}
+
+#five{
+  background-color: #8d99ae;
+}
